@@ -1,0 +1,23 @@
+16:43:48.839 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:15)oggger - ****Starting TC002_LoginTest****
+16:43:50.811 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:36)oggger - ****finished TC002_LoginTest****
+17:13:32.386 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Automation\Myworkspaces\Seleniumwebdriver\OpenCart121\masterTest.xml"
+17:13:36.917 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:15)oggger - ****** Starting  TC001_AccountRegistrationTest ****
+17:13:37.154 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:21)oggger - ****** Clicked on my account ****
+17:13:37.764 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - ****** Clicked on Register link****
+17:13:37.768 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ****** providing the customer details ****
+17:13:41.176 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - ****** validating expected message ****
+17:13:41.213 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** finished TC001_AccountRegistrationTest ****
+17:13:45.191 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:15)oggger - ****Starting TC002_LoginTest****
+17:13:46.637 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:36)oggger - ****finished TC002_LoginTest****
+17:15:40.831 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Automation\Myworkspaces\Seleniumwebdriver\OpenCart121\MasterTest.xml"
+17:15:41.190 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Automation\Myworkspaces\Seleniumwebdriver\OpenCart121\MasterTest.xml
+
+17:15:45.511 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:15)oggger - ****** Starting  TC001_AccountRegistrationTest ****
+17:15:45.712 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:21)oggger - ****** Clicked on my account ****
+17:15:46.211 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - ****** Clicked on Register link****
+17:15:46.229 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - ****** providing the customer details ****
+17:15:49.681 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - ****** validating expected message ****
+17:15:49.737 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** finished TC001_AccountRegistrationTest ****
+17:15:53.444 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:15)oggger - ****Starting TC002_LoginTest****
+17:15:54.769 [main] INFO  testCases.TC002_LoginTest.verity_login(TC002_LoginTest.java:36)oggger - ****finished TC002_LoginTest****

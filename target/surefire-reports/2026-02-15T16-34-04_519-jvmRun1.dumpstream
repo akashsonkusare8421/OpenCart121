@@ -1,0 +1,9 @@
+# Created at 2026-02-15T16:34:37.788
+invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aba2de2943f3855ba687d2afd90d5d3, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.76, chrome: {chromedriverVersion: 145.0.7632.76 (ee36f024f43a..., userDataDir: C:\Users\ashwi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59042}, goog:processID: 10516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59042/devtoo..., se:cdpVersion: 145.0.7632.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aba2de2943f3855ba687d2afd90d5d3
+
